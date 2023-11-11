@@ -1,3 +1,5 @@
+![Header](./lyrebird-banner.jpg)
+
 ### Welcome!
 
 I'm interested in projects at the intersection of (digital) humanities and computer science.
